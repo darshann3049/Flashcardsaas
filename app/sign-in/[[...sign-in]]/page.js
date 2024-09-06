@@ -31,7 +31,7 @@ export default function SignInPage() {
             }}
           >
             <Typography variant="h4" component="h1" color="Black" sx={{ letterSpacing: '0.1rem' }}>
-              LOG IN
+              SIGN IN
             </Typography>
           </Box>
         </Toolbar>
